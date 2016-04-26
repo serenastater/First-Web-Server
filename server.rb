@@ -2,7 +2,7 @@ require 'sinatra'
 
 #gets root url
 get '/' do
-  "Hello world"
+  redirect '/hello.txt'
 end
 
 get "/sinatra" do
