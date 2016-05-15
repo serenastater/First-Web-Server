@@ -1,3 +1,3 @@
 # First-Web-Server
 
-Created this web server in class using Sinatra
+Created this web server using Sinatra
