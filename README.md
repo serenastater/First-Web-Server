@@ -1,3 +1,3 @@
-# First-Web-Server!
+# First Web Server!
 
-Created this web server using Sinatra
+A simple server created using Sinatra
